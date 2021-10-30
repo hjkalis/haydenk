@@ -1,0 +1,94 @@
+h1, h2, h3, p {
+	color: black;
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-size: 30px;
+}
+
+p {
+	font-size: 20px;
+	font-family:courier;
+}
+
+body {
+	background-color:lightgrey;
+	width: 960px;
+	margin: 0 auto;
+	border: ridge;
+} 
+
+img {
+	width: 200px;
+	height: 300px;
+	text-align: center;
+  	margin: auto;
+ 	display: block;
+}
+
+h1, h2, h3 { font-family:verdana;
+}
+
+.info {
+	margin: 10px;
+	padding: 20px;
+}
+nav {
+	text-align: center;
+	margin: auto;
+ 	display: block;
+	background-color: white;
+	margin: 10px;
+	padding: 10px;
+}
+li {
+	display: inline;
+	padding:  5px;
+}
+section {
+	display: block;
+	overflow: auto;
+	height: 100%;
+	background-color:white;
+	padding: 10px;
+	margin: 10px;
+}
+article {
+	display: block;
+	overflow: auto;
+	height: 100%;
+	background-color:white;
+	padding: 10px;
+	margin: 10px;
+	width: 440px;
+	float: left;
+
+}
+#insta {
+	height: 278px;
+	width: 278px;
+}
+
+footer {
+	background-color:white;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
